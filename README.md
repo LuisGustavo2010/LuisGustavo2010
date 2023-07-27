@@ -1,4 +1,4 @@
-## Olá! Seja Bem-Vindo
+## Oi,
 
 🙋 Sou Luis Gustavo  |  🚩 São Paulo, Brazil  |  📚 Estudante Análise e Desenvolvimento de Sistemas  |  📚 C# student, Trabahando atualmente com Dados (Python e SQL) na Raízen.
 
