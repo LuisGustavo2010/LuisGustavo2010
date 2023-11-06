@@ -1,6 +1,6 @@
 ## Oi,
 
-🙋 Sou Luis Gustavo  |  🚩 São Paulo, Brazil  |  📚 Estudante Análise e Desenvolvimento de Sistemas  |  📚 C# student, Trabahando atualmente com Dados (Python e SQL) na Raízen.
+🙋 Sou Luis Gustavo  |  🚩 São Paulo, Brazil  |  📚 Estudante Análise e Desenvolvimento de Sistemas  |  📚 C# student, Trabahando atualmente como Especialista de Dados na Aegea.
 
  <div>
   <a href="https://github.com/LuisGustavo2010">
